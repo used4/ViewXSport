@@ -1,0 +1,28 @@
+beIN SPORTS 1 FR" tvg-name="beIN SPORTS 1 FR" tvg-logo="http://tugapt.com/picons/beinsports1fr.png" group-title="France",beIN SPORTS 1 FR
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/417.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 1 FR" tvg-name="beIN SPORTS 1 SD+ FR" tvg-logo="http://tugapt.com/picons/beinsports1fr.png" group-title="France",beIN SPORTS 1 SD+ FR
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/7538.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 1 FR" tvg-name="beIN SPORTS 1 HD FR" tvg-logo="http://tugapt.com/picons/beinsports1hdfr.png" group-title="France",beIN SPORTS 1 HD FR
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/418.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 2 FR" tvg-name="beIN SPORTS 2 FR" tvg-logo="http://tugapt.com/picons/beinsports2fr.png" group-title="France",beIN SPORTS 2 FR
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/415.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 2 FR" tvg-name="beIN SPORTS 2 HD FR" tvg-logo="http://tugapt.com/picons/beinsports2hdfr.png" group-title="France",beIN SPORTS 2 HD FR
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/416.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 3 FR" tvg-name="beIN SPORTS 3 FR" tvg-logo="http://tugapt.com/picons/beinsports3fr.png" group-title="France",beIN SPORTS 3 FR
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/413.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS 3 FR" tvg-name="beIN SPORTS 3 HD FR" tvg-logo="http://tugapt.com/picons/beinsports3hdfr.png" group-title="France",beIN SPORTS 3 HD FR
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/414.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4K Ultra (BackUP) FR" tvg-logo="" group-title="France",beIN Sports 4K Ultra (BackUP) FR
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/110712.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 4 FR" tvg-name="beIN SPORTS MAX 4 HD FR" tvg-logo="http://tugapt.com/picons/beinsportsmax4hdfr.png" group-title="France",beIN SPORTS MAX 4 HD FR
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/4090.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 5 FR" tvg-name="beIN SPORTS MAX 5 HD FR" tvg-logo="http://tugapt.com/picons/beinsportsmax5hdfr.png" group-title="France",beIN SPORTS MAX 5 HD FR
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/4089.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 6 FR" tvg-name="beIN SPORTS MAX 6 HD FR" tvg-logo="http://tugapt.com/picons/beinsportsmax6hdfr.png" group-title="France",beIN SPORTS MAX 6 HD FR
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/4088.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 7 FR" tvg-name="beIN SPORTS MAX 7 HD FR" tvg-logo="http://tugapt.com/picons/beinsportsmax7hdfr.png" group-title="France",beIN SPORTS MAX 7 HD FR
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/4087.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 8 FR" tvg-name="beIN SPORTS MAX 8 FR" tvg-logo="http://tugapt.com/picons/beinsportsmax8.png" group-title="France",beIN SPORTS MAX 8 FR
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/7536.m3u8
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 8 FR" tvg-name="beIN SPORTS MAX 8 HD FR" tvg-logo="http://tugapt.com/picons/beinsportsmax8hd.png" group-title="France",beIN SPORTS MAX 8 HD FR
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/7537.m3u8
