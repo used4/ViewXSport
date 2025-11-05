@@ -1,3 +1,9 @@
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyeh 01" tvg-logo="https://i.imgur.com/8iI3MLd.png" group-title="ARABIC SPORTS | OTT",Thmanyeh 01
+http://199.115.193.116:8080/live/90337864331136/90337864331136/412107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Thmanyeh 02" tvg-logo="" group-title="ARABIC SPORTS | OTT",Thmanyeh 02
+http://199.115.193.116:8080/live/90337864331136/90337864331136/412106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Thmanayh 03 " tvg-logo="https://i.imgur.com/8iI3MLd.png" group-title="ARABIC SPORTS | OTT",Thmanayh 03 
+http://199.115.193.116:8080/live/90337864331136/90337864331136/414768.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR| thmanayh 1 FHD H.265" tvg-logo="https://i.imgur.com/8iI3MLd.png" group-title="THMANYAH SPORTS",AR| thmanayh 1 FHD H.265
 http://199.115.193.116:8080/live/90337864331136/90337864331136/413728.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR| thmanayh 1 FHD" tvg-logo="https://i.imgur.com/8iI3MLd.png" group-title="THMANYAH SPORTS",AR| thmanayh 1 FHD
