@@ -1,0 +1,38 @@
+#EXTINF:-1 tvg-id="beINSportsAFC1.qa" tvg-name="beIN SPORTS AFC 1 HEVC" tvg-logo="http://91.208.162.66/BEINAFC/BEINAFC.png" group-title="beIN SPORTS AFC",beIN SPORTS AFC 1 HEVC
+http://199.115.193.116:8080/live/90337864331136/90337864331136/249908.m3u8
+#EXTINF:-1 tvg-id="beINSportsAFC2.qa" tvg-name="beIN SPORTS AFC 2 HD" tvg-logo="http://91.208.162.66/BEINAFC/BEINAFC.png" group-title="beIN SPORTS AFC",beIN SPORTS AFC 2 HD
+http://199.115.193.116:8080/live/90337864331136/90337864331136/249909.m3u8
+#EXTINF:-1 tvg-id="beINSportsAFC2.qa" tvg-name="beIN SPORTS AFC 2 FHD" tvg-logo="http://91.208.162.66/BEINAFC/BEINAFC.png" group-title="beIN SPORTS AFC",beIN SPORTS AFC 2 FHD
+http://199.115.193.116:8080/live/90337864331136/90337864331136/249910.m3u8
+#EXTINF:-1 tvg-id="beINSportsAFC2.qa" tvg-name="beIN SPORTS AFC 2 HEVC" tvg-logo="http://91.208.162.66/BEINAFC/BEINAFC.png" group-title="beIN SPORTS AFC",beIN SPORTS AFC 2 HEVC
+http://199.115.193.116:8080/live/90337864331136/90337864331136/249911.m3u8
+#EXTINF:-1 tvg-id="beINSportsAFC2.qa" tvg-name="beIN SPORTS AFC 3 HD" tvg-logo="http://91.208.162.66/BEINAFC/BEINAFC.png" group-title="beIN SPORTS AFC",beIN SPORTS AFC 3 HD
+http://199.115.193.116:8080/live/90337864331136/90337864331136/249912.m3u8
+#EXTINF:-1 tvg-id="beINSportsAFC3.qa" tvg-name="beIN SPORTS AFC 3 FHD" tvg-logo="http://91.208.162.66/BEINAFC/BEINAFC.png" group-title="beIN SPORTS AFC",beIN SPORTS AFC 3 FHD
+http://199.115.193.116:8080/live/90337864331136/90337864331136/249913.m3u8
+#EXTINF:-1 tvg-id="beINSportsAFC3.qa" tvg-name="beIN SPORTS AFC 3 HEVC" tvg-logo="http://91.208.162.66/BEINAFC/BEINAFC.png" group-title="beIN SPORTS AFC",beIN SPORTS AFC 3 HEVC
+http://199.115.193.116:8080/live/90337864331136/90337864331136/249914.m3u8
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="beIN SPORTS 1 SD" tvg-logo="http://91.208.162.66/bsnew/bs1sd.png" group-title="beIN SPORTS SD | OTT",beIN SPORTS 1 SD
+http://199.115.193.116:8080/live/90337864331136/90337864331136/3067.m3u8
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="beIN SPORTS 2 SD" tvg-logo="http://91.208.162.66/bsnew/bs2sd.png" group-title="beIN SPORTS SD | OTT",beIN SPORTS 2 SD
+http://199.115.193.116:8080/live/90337864331136/90337864331136/3068.m3u8
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="beIN SPORTS 3 SD" tvg-logo="http://91.208.162.66/bsnew/bs3sd.png" group-title="beIN SPORTS SD | OTT",beIN SPORTS 3 SD
+http://199.115.193.116:8080/live/90337864331136/90337864331136/18375.m3u8
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="beIN SPORTS 4 SD" tvg-logo="http://91.208.162.66/bsnew/bs4sd.png" group-title="beIN SPORTS SD | OTT",beIN SPORTS 4 SD
+http://199.115.193.116:8080/live/90337864331136/90337864331136/36414.m3u8
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="beIN SPORTS 5 SD" tvg-logo="http://91.208.162.66/bsnew/bs5sd.png" group-title="beIN SPORTS SD | OTT",beIN SPORTS 5 SD
+http://199.115.193.116:8080/live/90337864331136/90337864331136/36417.m3u8
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="beIN SPORTS 6 SD" tvg-logo="http://91.208.162.66/bsnew/bs6sd.png" group-title="beIN SPORTS SD | OTT",beIN SPORTS 6 SD
+http://199.115.193.116:8080/live/90337864331136/90337864331136/36423.m3u8
+#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="beIN SPORTS 7 SD" tvg-logo="http://91.208.162.66/bsnew/bs7sd.png" group-title="beIN SPORTS SD | OTT",beIN SPORTS 7 SD
+http://199.115.193.116:8080/live/90337864331136/90337864331136/36425.m3u8
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="beIN SPORTS 8 SD" tvg-logo="http://91.208.162.66/bsnew/bs8sd.png" group-title="beIN SPORTS SD | OTT",beIN SPORTS 8 SD
+http://199.115.193.116:8080/live/90337864331136/90337864331136/36976.m3u8
+#EXTINF:-1 tvg-id="beINSports4En.qa" tvg-name="beIN SPORTS 9 SD" tvg-logo="http://91.208.162.66/bsnew/bs9sd.png" group-title="beIN SPORTS SD | OTT",beIN SPORTS 9 SD
+http://199.115.193.116:8080/live/90337864331136/90337864331136/36977.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 EXTRA 4K" tvg-logo="http://91.208.162.66/bsnew/extra14k.png" group-title="beIN SPORTS H265 | OTT",beIN SPORTS 1 EXTRA 4K
+http://199.115.193.116:8080/live/90337864331136/90337864331136/173470.m3u8
+#EXTINF:-1 tvg-id="beINSports.qa" tvg-name="beIN SPORTS 2 EXTRA 4K" tvg-logo="http://91.208.162.66/bsnew/extra24k.png" group-title="beIN SPORTS H265 | OTT",beIN SPORTS 2 EXTRA 4K
+http://199.115.193.116:8080/live/90337864331136/90337864331136/173471.m3u8
+#EXTINF:-1 tvg-id="beINSportsEnglish1.qa" tvg-name="beIN SPORTS 3 EXTRA 4K" tvg-logo="http://91.208.162.66/bsnew/extra34k.png" group-title="beIN SPORTS H265 | OTT",beIN SPORTS 3 EXTRA 4K
+http://199.115.193.116:8080/live/90337864331136/90337864331136/173472.m3u8
