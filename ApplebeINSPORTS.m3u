@@ -1,10 +1,11 @@
-#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="beIN SPORTS 1 SD" tvg-logo="http://91.208.162.66/bsnew/bs1sd.png" group-title="beIN SPORTS SD | HD",beIN SPORTS 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HD" tvg-logo="http://91.208.162.66/bsnew/global.png" group-title="beIN SPORTS HD | HD",beIN SPORTS HD
 http://hookpro.site/live/05316097414/99663356557/405948.m3u8
-#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="beIN SPORTS 2 SD" tvg-logo="http://91.208.162.66/bsnew/bs2sd.png" group-title="beIN SPORTS SD | HD",beIN SPORTS 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 HD" tvg-logo="http://91.208.162.66/bsnew/bs2hd.png" group-title="beIN SPORTS HD | HD",beIN SPORTS 2 HD
 http://hookpro.site/live/05316097414/99663356557/405949.m3u8
-#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="beIN SPORTS 3 SD" tvg-logo="http://91.208.162.66/bsnew/bs3sd.png" group-title="beIN SPORTS SD | HD",beIN SPORTS 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 HD" tvg-logo="http://91.208.162.66/bsnew/bs3hd.png" group-title="beIN SPORTS HD | HD",beIN SPORTS 3 HD
 http://hookpro.site/live/05316097414/99663356557/405950.m3u8
-#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="beIN SPORTS 4 SD" tvg-logo="http://91.208.162.66/bsnew/bs4sd.png" group-title="beIN SPORTS SD | HD",beIN SPORTS 4 HD
+#EXTINF:-1 tvg-id="beINSeries1.qa" tvg-name="beIN SPORTS 4 HD" tvg-logo="http://91.208.162.66/bsnew/bs4hd.png" group-title="beIN SPORTS HD | HD",beIN SPORTS 4 HD
 http://hookpro.site/live/05316097414/99663356557/405951.m3u8
-#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="beIN SPORTS 5 SD" tvg-logo="http://91.208.162.66/bsnew/bs5sd.png" group-title="beIN SPORTS SD | HD",beIN SPORTS 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 HD" tvg-logo="http://91.208.162.66/bsnew/bs5hd.png" group-title="beIN SPORTS HD | HD",beIN SPORTS 5 HD
 http://hookpro.site/live/05316097414/99663356557/405952.m3u8
+https://raw.githubusercontent.com/used4/ViewXSport/refs/heads/main/ApplebeINSPORTS.m3u
